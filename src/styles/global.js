@@ -13,8 +13,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #009;
-    -webkit-font-smoothing: antialiased important;
+    background: #004;
+    -webkit-font-smoothing: antialiased !important;
   }
 
   body, imput, button {
