@@ -18,7 +18,7 @@ export default createGlobalStyle`
   }
 
   body, imput, button {
-    color: #222;
+    color: #000;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
   }
